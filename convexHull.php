@@ -73,5 +73,3 @@
 			return null;
 		}
 	}
-
-?>
