@@ -1,0 +1,10 @@
+{
+  "name": "benpoulson/php-convexhull",
+  "description": "Simple PHP implementation of the \"Andrew's Monotone Chain\" convex hull algorithm.",
+  "license": "MIT",
+  "require": {
+  },
+  "autoload": {
+    "files": ["convexHull.php"]
+  }
+}
